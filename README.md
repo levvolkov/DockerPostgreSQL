@@ -1,6 +1,6 @@
 <p align="center">
-<img width="100%" src="https://github.com/LevVolkov/LevVolkov/blob/main/storage/postman_docker.png">
-</p> 
+<img width="722" alt="postman_docker" src="https://github.com/LevVolkov/DockerPostgreSQL/assets/88002142/c8708483-7e0f-476f-9c5d-b2484fea9594">
+</p>
 
 </br>
 
